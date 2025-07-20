@@ -7,9 +7,7 @@
 3. [Highlights](#highlights)
 4. [Insights](#insights)
 5. [Full Report](#full-report)
-6. [Usage](#usage)
-7. [Contribution](#contribution)
-8. [Conclusion](#conclusion)
+6. [Conclusion](#conclusion)
 
 ---
 ##  Project Overview
@@ -18,7 +16,7 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 **Check out the interactive Power BI dashboard below to explore the insights and findings visually:**
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Viraj%20Bhutada-gold?logo=powerbi&style=flat&logoColor=white)](https://app.powerbi.com/links/x_BEXo8_4A?ctid=a2e8c89e-7534-4ccf-b1fa-00c12005cb9d&pbi_source=linkShare&bookmarkGuid=ef4fde42-5ed7-4a3a-b773-200d74946dec)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Siddharth%20Vinnakotagold?logo=powerbi&style=flat&logoColor=white)](https://app.powerbi.com/links/x_BEXo8_4A?ctid=a2e8c89e-7534-4ccf-b1fa-00c12005cb9d&pbi_source=linkShare&bookmarkGuid=ef4fde42-5ed7-4a3a-b773-200d74946dec)
 
 ---
 
@@ -97,36 +95,6 @@ For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dy
 
 ---
 
-## Usage
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights.git
-   ```
-
-2. **Open the Power BI file:**
-   ```bash
-   cd US-Healthcare-Analytics-PowerBI-Insights
-   ```
-   Open `US_Healthcare_Dynamics.pbix` using Power BI Desktop.
-
-3. **Explore the Insights and Findings Interactively.**
-
----
-
-## Contribution
-
-Find issues, suggest enhancements, or contribute to the project by opening an [issue](https://github.com/your-username/US-Healthcare-Analytics-PowerBI-Insights/issues) or submitting a [pull request](https://github.com/your-username/US-Healthcare-Analytics-PowerBI-Insights/pulls).
-
----
-
-
-[![License](https://img.shields.io/badge/License-MIT-silver)](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/blob/main/LICENSE)
-
-This PowerBI-driven initiative is licensed under the [MIT License](LICENSE), focusing on providing comprehensive insights into the U.S. healthcare industry from 2019 to 2020. The meticulously designed reports and visualizations offer strategic intelligence for stakeholders in the healthcare landscape.
-
----
-
 ## Conclusion
 
 The U.S. Healthcare Industry Dynamics project for 2019-2020 offers a comprehensive and insightful analysis of the healthcare landscape, utilizing advanced data analytics and visualization tools. Through meticulous data cleaning, DAX calculations, and interactive visualizations, this project provides valuable insights and strategic intelligence for healthcare stakeholders. 
@@ -157,5 +125,5 @@ This project underscores the importance of leveraging data analytics in the heal
 
 ### Connect With Me
 
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddharth%20Vinnakota-blue?logo=linkedin)](https://www.linkedin.com/in/siddharth-vinnakota/)**
 
